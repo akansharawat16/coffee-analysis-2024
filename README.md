@@ -56,9 +56,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions
 Feel free to open issues or submit pull requests for any improvements or new features.
 
-Contact
-For any questions or suggestions, please contact:
-Your Name – your-email@example.com
+
 
 Happy analyzing!
 
